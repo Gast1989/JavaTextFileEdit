@@ -10,10 +10,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author mushfau
- */
+
 public class MainForm extends javax.swing.JFrame {
 
     boolean isFound = false;
@@ -25,7 +22,6 @@ public class MainForm extends javax.swing.JFrame {
     }
 
     @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
         jLabel1 = new javax.swing.JLabel();
